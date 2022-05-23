@@ -1,0 +1,2 @@
+DROP INDEX IF EXISTS place_idx;
+DROP TABLE IF EXISTS stories;
